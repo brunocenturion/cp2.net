@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vO4qQUIAyy4mrg6Htkt0hxpk2H+XSeMvxKP3H0EQmj8=",
+  "Source": "CP2.API",
+  "BasePath": "_content/CP2.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

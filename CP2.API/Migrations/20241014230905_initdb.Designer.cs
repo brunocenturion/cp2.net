@@ -16,7 +16,7 @@ namespace CP2.API.Migrations
     [Migration("20241014230905_initdb")]
     partial class initdb
     {
-        /// <inheritdoc />
+    
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
